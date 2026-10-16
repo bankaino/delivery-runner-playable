@@ -1,0 +1,2 @@
+Single prop for an image-to-3D generator: a black traffic light on a short pole with three round lamps, the bottom one glowing green, a small green pedestrian light below. One object only, centered, three-quarter view from slightly above, plain pure white background, soft even studio light, no ground shadow.
+Chunky stylized low-poly 3D render like the reference mobile game: smooth bevelled shapes, simple saturated colours, no text, no letters, no logos.

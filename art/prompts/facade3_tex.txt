@@ -1,0 +1,3 @@
+Texture atlas for a mobile game, flat orthographic FRONT view, no perspective: four DIFFERENT low-rise city buildings side by side, each one quarter of the width, filling the whole image edge to edge, each a different design:
+1) a light-blue grocery corner store with striped teal-and-white awning and fruit crates in the window; 2) a peach two-storey house with a wide balcony and hanging plants; 3) a terracotta building with arched ground-floor windows and a coral-and-cream awning; 4) a white modern building with big glass shop windows and wooden details.
+White-framed windows, flower boxes, cornices, varied rooflines. Stylized clean 3D-render look like the reference, warm sunlight from upper left, soft shadows. No people, no cars, no text, no letters, no logos.

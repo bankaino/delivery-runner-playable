@@ -1,0 +1,3 @@
+Texture atlas for a mobile game, flat orthographic FRONT view, no perspective: four different low-rise city shop facades side by side, each one quarter of the width, filling the whole image edge to edge.
+Each facade: ground floor with a big shop window and a door under a striped fabric awning (coral-and-cream, teal-and-cream, coral-and-cream, teal-and-cream), two upper floors with white-framed windows and small flower boxes, a cornice at the top. Wall colours: warm peach, cream, pale blue, brick red.
+Stylized clean 3D-render look like the reference, soft light from upper left, no people, no cars, no text, no signs with letters, no logos.
